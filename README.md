@@ -32,7 +32,7 @@ In a time-interleaved ADC, analog imperfections such as channel offset or timing
 
 ## How to run
 
-from the project directiory run ```python .\ADCpractice.py```
+from the project directiory run ```python .\ADC.py```
 
 required packages: numpy, matplotlib
 
